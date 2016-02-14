@@ -6,7 +6,11 @@
 			'ngRoute',
 
 		//third party modules
-		'firebase'
+		'firebase',
+
+		//custom modules
+		'app.landing'
+
 			]);
 
 })();
